@@ -98,7 +98,7 @@ export default function Weddings() {
           <p>{`Changes are rare with Laura, although she's happy to make simpler changes free of charge to get the design finished.`}</p>
 
           <h3 className='border-t-2 border-color-dusk pt-4 mt-16'>DESIGN</h3>
-          <p>Once the reserach and Concept are agreed the hard work begins for Laura. The nature of custom work means every project is different. Whatever the Design entails, it's Laura's challenge to make the thousands of tiny decisions that combine to make a finished piece; her clients are in expert hands whose decades of experience inform her choices. Only when Laura is happy with her work does she neatly present is to the client.</p>
+          <p>{`Once the reserach and Concept are agreed the hard work begins for Laura. The nature of custom work means every project is different. Whatever the Design entails, it's Laura's challenge to make the thousands of tiny decisions that combine to make a finished piece; her clients are in expert hands whose decades of experience inform her choices. Only when Laura is happy with her work does she neatly present is to the client.`}</p>
 
           <p>{`There's no design without a client and there's no product without the client's invaluable research and buy-in for the Concept. Feedback is an expected part of design and a professional designer can field all the feedback a client shares.`}</p>
 
