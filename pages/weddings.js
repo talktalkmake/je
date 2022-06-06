@@ -67,13 +67,13 @@ export default function Weddings() {
             </p>
           </article>
           <h3 className='border-t-2 border-color-dusk pt-4 mt-16'>RESEARCH</h3>
-          <p>The idea of a formal research process can be intimidating to clients new to commissining artwork and design, but the common feedback from clients sounds something like 'this is so much fun, I'm happy to have this space to figure out just what I'd like.' Having been through the wedding planning process herself, Laura makes research the key stage of the project to ensure success through thorough planning. How does she do this?</p>
+          <p>{`The idea of a formal research process can be intimidating to clients new to commissining artwork and design, but the common feedback from clients sounds something like 'this is so much fun, I'm happy to have this space to figure out just what I'd like.' Having been through the wedding planning process herself, Laura makes research the key stage of the project to ensure success through thorough planning. How does she do this?`}</p>
 
           <h3 className='border-t-2 border-color-dusk pt-4 mt-16'>WRITTEN RESEARCH</h3>
-          <p>Questions specific to the event—what will it look like? What cannot be overlooked?—are best documented in writing to keep an objective reference to the project. Before Laura makes anything she's careful to understand the clients' needs.</p>
+          <p>{`Questions specific to the event—what will it look like? What cannot be overlooked?—are best documented in writing to keep an objective reference to the project. Before Laura makes anything she's careful to understand the clients' needs.`}</p>
 
           <h3 className='border-t-2 border-color-dusk pt-4 mt-16'>VISUAL RESEARCH</h3>
-          <p>Adjectives are evocative but subjective; two clients describing a 'rustic yet chic' event likely have very different ideas in mind. Examples of what those adjectives mean to each client using imagery helps inform Laura's concept of the artwork and design.</p>
+          <p>{`Adjectives are evocative but subjective; two clients describing a 'rustic yet chic' event likely have very different ideas in mind. Examples of what those adjectives mean to each client using imagery helps inform Laura's concept of the artwork and design.`}</p>
 
           <p>Each client has enough time to properly understand and contribute to their research. Laura is always there to advise should anything be less than obvious.</p>
 
@@ -93,14 +93,14 @@ export default function Weddings() {
             <dt className='sm:text-right sm:w-1/4 sm:inline-block'>Timing Specifics</dt>
             <dd className='sm:w-3/4 sm:pl-4 sm:inline-block'>Once the Concept is presented Laura will have more accurate details on exactly when to expect the finished design.</dd>
           </dl>
-          <p>The point of the Concept is to align expectations between Laura and the client. Because it's such a thorough projection of the design, the only surprises after the Concept should be good ones. Of course, since the Concept is the formative stage, it's important the plan for the following Design stage is sound. It's only natural for clients to have questions or concerns about the ideas presented in the Concept. By delaying the heavy lifting of the artwork and design the planning becomes of greater importance, but the ability to shift ideas and change direction remains possible later. Instead of racing to paint the design Laura's process steadily builds the research into the Concept at a slower pace to avoid the need for changes.</p>
+          <p>{`The point of the Concept is to align expectations between Laura and the client. Because it's such a thorough projection of the design, the only surprises after the Concept should be good ones. Of course, since the Concept is the formative stage, it's important the plan for the following Design stage is sound. It's only natural for clients to have questions or concerns about the ideas presented in the Concept. By delaying the heavy lifting of the artwork and design the planning becomes of greater importance, but the ability to shift ideas and change direction remains possible later. Instead of racing to paint the design Laura's process steadily builds the research into the Concept at a slower pace to avoid the need for changes.`}</p>
 
-          <p>Changes are rare with Laura, although she's happy to make simpler changes free of charge to get the design finished.</p>
+          <p>{`Changes are rare with Laura, although she's happy to make simpler changes free of charge to get the design finished.`}</p>
 
           <h3 className='border-t-2 border-color-dusk pt-4 mt-16'>DESIGN</h3>
           <p>Once the reserach and Concept are agreed the hard work begins for Laura. The nature of custom work means every project is different. Whatever the Design entails, it's Laura's challenge to make the thousands of tiny decisions that combine to make a finished piece; her clients are in expert hands whose decades of experience inform her choices. Only when Laura is happy with her work does she neatly present is to the client.</p>
 
-          <p>There's no design without a client and there's no product without the client's invaluable research and buy-in for the Concept. Feedback is an expected part of design and a professional designer can field all the feedback a client shares.</p>
+          <p>{`There's no design without a client and there's no product without the client's invaluable research and buy-in for the Concept. Feedback is an expected part of design and a professional designer can field all the feedback a client shares.`}</p>
 
           <h3 className='border-t-2 border-color-dusk pt-4 mt-16'>PRINTING</h3>
           <p>100 sets are included with the Design + Printing Package. For Design packages, clients may print separately themselves or purchase prints on an à la carte basis.</p>
