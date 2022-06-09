@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
+import ContactForm from '../components/ContactForm'
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
               </ul>
             </nav>
           </header>
+          {<ContactForm />}
         </div>
       </main>
 
